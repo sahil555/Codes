@@ -94,7 +94,7 @@ class OrderFulfillToMaximum {
 
         System.out.println(new OrderFulfillToMaximum().solution(new int[]{5,11,1,3}, new int[]{6, 1,3, 2}, 5)); // should return 2
 
-        System.out.println(new OrderFulfillToMaximum().solution(new int[]{6,41,31,23}, new int[]{2, 4, 6, 6}, 3)); 
+        System.out.println(new OrderFulfillToMaximum().solution2(new int[]{6,41,31,23}, new int[]{2, 4, 6, 6}, 3)); 
 
     }
 
